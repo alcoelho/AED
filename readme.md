@@ -1,7 +1,10 @@
 # Exercícios para fazer
 
 
-##Exercícios de casa
+## Exercícios de casa
+
+tba
+
 
 
 ##URI stuff (5 dos exercícios abaixo até 31/05)
