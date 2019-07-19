@@ -1,4 +1,4 @@
-#Repositório de exercícios da disciplina Algoritmos e Estruturas de Dados I do IME-UERJ
+# Repositório de exercícios da disciplina Algoritmos e Estruturas de Dados I do IME-UERJ
 
 ## Exercícios para fazer
 
